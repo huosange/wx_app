@@ -1,0 +1,4 @@
+<!--pages/image/image.wxml-->
+<view>
+<image src='{{url}}' mode='aspectFill' class='bigImage'></image>
+</view>
