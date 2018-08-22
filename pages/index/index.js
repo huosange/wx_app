@@ -95,7 +95,7 @@ function requestData(that, targetPage) {
     mDesc.push(desc);
     mWho.push(who);
     mTimes.push(times);
-    mTitles.push("publish by:@"+who+"--"+times);
+    mTitles.push("@"+who+"拍摄于"+times);
 
   }
 }
