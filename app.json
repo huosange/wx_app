@@ -4,9 +4,9 @@
     "pages/image/image"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "backgroundTextStyle": "#38373C",
+    "navigationBarBackgroundColor": "#38373C",
+    "navigationBarTitleText": "神仙姐姐",
+    "navigationBarTextStyle": "white"
   }
 }
