@@ -1,4 +1,4 @@
 <!--pages/image/image.wxml-->
-<view>
-<image src='{{url}}' mode='aspectFill' class='bigImage'></image>
+<view bindlongtap='onLongClick' data-url='{{url}}'>
+  <image src='{{url}}' mode='aspectFill' class='bigImage'></image>
 </view>
