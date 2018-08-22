@@ -1,6 +1,7 @@
 <!--index.wxml-->
 <view>
   <view wx:for="{{items}}" class="card">
+  <!-- 加个注释看看能不能被提交哦。 -->
     <view bindtap='onItemClick' data-url='{{item.url}}'>
       <image class='image' src='{{item.url}}' mode='aspectFill'></image>
       <view class='title'>{{item.title}}</view>

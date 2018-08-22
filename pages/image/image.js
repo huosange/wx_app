@@ -80,7 +80,7 @@ function saveImage(mUrl){
     },
     fail:function(res){
       wx.showToast({
-        title: '保存失败，请重试',
+        title: '保存失败',
       })
     },
     complete:function(res){
